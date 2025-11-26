@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
    },
    watermark: {
       position: "absolute",
-      bottom: 10,
+      bottom: 20,
       right: 10,
       color: "white",
       fontSize: 12,
